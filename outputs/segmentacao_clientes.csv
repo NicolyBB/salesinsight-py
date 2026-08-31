@@ -1,0 +1,16 @@
+﻿cliente,cliente_nome,total_gasto,segmento
+Cliente_003,Carlos Eduardo,105250.0,Ouro
+Cliente_008,Luciana Gomes,46500.0,Ouro
+Cliente_014,Roberto Oliveira,39950.0,Ouro
+Cliente_011,Maria Souza,33360.0,Ouro
+Cliente_005,Gabriel Costa,23610.0,Ouro
+Cliente_007,João Silva,19300.0,Ouro
+Cliente_002,Beatriz Mendes,18750.0,Ouro
+Cliente_015,Vanessa Alves,15150.0,Ouro
+Cliente_009,Luiz Silva Cia,11030.0,Prata
+Cliente_004,Fernanda Lima,8100.0,Prata
+Cliente_013,Ricardo Rocha,4400.0,Bronze
+Cliente_010,Marcos Pereira,2750.0,Bronze
+Cliente_006,Joao Silva,2740.0,Bronze
+Cliente_001,Ana Paula Santos,2500.0,Bronze
+Cliente_012,Pedro Alves,1440.0,Bronze

@@ -1,0 +1,24 @@
+{
+    "estatisticas_numpy": {
+        "media": 6833.265306122449,
+        "mediana": 3400.0,
+        "desvio_padrao_ddof_0": 8859.929835202685,
+        "soma": 334830.0,
+        "minimo": 240.0,
+        "maximo": 45000.0,
+        "vendas_acima_da_media": 18,
+        "escala_0_1_min": 0.0,
+        "escala_0_1_max": 1.0
+    },
+    "relatorio_limpeza": {
+        "registros_iniciais": 110,
+        "datas_invalidas_removidas": 43,
+        "nulos_numericos_removidos": 6,
+        "valores_nao_positivos_removidos": 5,
+        "clientes_vazios_removidos": 7,
+        "clientes_fora_padrao_antes": 49,
+        "clientes_fora_padrao_depois": 0,
+        "registros_removidos_total": 61,
+        "registros_finais": 49
+    }
+}
