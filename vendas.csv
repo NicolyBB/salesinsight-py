@@ -1,0 +1,111 @@
+﻿id_venda,data_venda,cliente,produto,categoria,regiao,quantidade,preco_unitario
+1,2024-13-01, Ana Paula Santos,Notebook Dell,Eletrônicos,Centro-Oeste,2 un,4500
+2,2024-01-15,Carlos Eduardo, Smartphone Samsung ,Eletrônicos,Sudeste,-2,2800
+3,2024-13-01, João Silva ,Impressora HP, eletrônicos ,SUL,5,850
+4,2024-04-05, João Silva ,Teclado Mecânico,Periféricos, sudeste ,6 un,"R$ 250,00"
+5,2024-04-05,luciana gomes, Smartphone Samsung ,Eletrônicos, sudeste ,12,2800
+6,2024-06-11, Ana Paula Santos,Fone de Ouvido, acessórios ,Norte,12,
+7,15/02/2024,fernanda lima,Cadeira Ergonômica,Móveis,Centro-Oeste,8,950
+8,2024-04-05,MARCOS PEREIRA ,Teclado Mecânico,Periféricos,Centro-Oeste,11,250
+9,2024-02-30,  ,Teclado Mecânico,Periféricos,Centro-Oeste,5,250
+10,2024-13-01,Carlos Eduardo,"MONITOR 27""",Eletrônicos,Sudeste,6,1200
+11,31/02/2024,carlos eduardo,"MONITOR 27""",Eletrônicos, sudeste ,7,1200
+12,2024-04-05,VANESSA ALVES,Teclado Mecânico,Periféricos,Centro-Oeste,7,250
+13,2024-07-04,luciana gomes,Mouse Sem Fio,Periféricos,Nordeste,-1,120
+14,2024/02/01,JOAO SILVA,Teclado Mecânico,Periféricos,SUL,10,250
+15,15/02/2024,Maria Souza ,Cadeira Ergonômica,Móveis,Sudeste,9,950
+16,NULL,Gabriel Costa, Smartphone Samsung ,Eletrônicos,Nordeste,,2800
+17,2024-04-12,ROBERTO OLIVEIRA,Impressora HP,Eletrônicos,Sul,9,850
+18,2024-05-20,JOAO SILVA,Mouse Sem Fio,Periféricos,Sudeste,2,120
+19,2024/02/01,  beatriz mendes,"MONITOR 27""", eletrônicos ,Sul,2,1200
+20,2024-02-30,Carlos Eduardo,Teclado Mecânico, periféricos ,NORDESTE,10,250
+21,2024-04-12,Luiz Silva & Cia,Impressora HP,Eletrônicos,Centro-Oeste,11,850
+22,2024-13-01,VANESSA ALVES,Impressora HP,Eletrônicos,Centro-Oeste,,
+23,2024/02/01,Carlos Eduardo,"MONITOR 27""",Eletrônicos,Sudeste,1,1200
+24,2024-04-05,MARIA SOUZA,Mouse Sem Fio, periféricos ,Centro-Oeste,4,120
+25,NULL,,Mesa Gamer,Móveis,NORDESTE,2,1100
+26,15/02/2024,MARCOS PEREIRA ,Fone de Ouvido,Acessórios,Sudeste,,180
+27,2024.03.10, Ana Paula Santos,"MONITOR 27""", eletrônicos ,NORDESTE,5,1200
+28,2024-01-18,carlos eduardo,   HD Externo 1TB  ,Acessórios,Sul,9,380
+29,2024-07-04,carlos eduardo,"MONITOR 27""", eletrônicos ,NORDESTE,7,1200
+30,2024-04-05,  Pedro Alves  ,Fone de Ouvido, acessórios ,SUL,8,180
+31,31/02/2024,Carlos Eduardo,   HD Externo 1TB  , acessórios ,Norte,10,380
+32,2024-02-30,MARIA SOUZA,Mouse Sem Fio, periféricos ,NORDESTE,,120
+33,invalid_date,  Pedro Alves  , Smartphone Samsung ,Eletrônicos,Centro-Oeste,-5,2800
+34,2024-05-20,  ,Notebook Dell,Eletrônicos,SUL,4,4500
+35,2024-04-12,Gabriel Costa,"MONITOR 27""",Eletrônicos,Nordeste,2,
+36,31/02/2024,  ,Mesa Gamer,Móveis,Sul,3,1100
+37,NULL,carlos eduardo,"MONITOR 27""",Eletrônicos,Nordeste,12,1200
+38,15/02/2024,Maria Souza ,Notebook Dell,Eletrônicos,Norte,3,4500
+39,31/02/2024, Ana Paula Santos,Impressora HP, eletrônicos ,Norte,4,850
+40,2024/02/01,ROBERTO OLIVEIRA,Impressora HP,Eletrônicos,Sudeste,5,
+41,2024-02-30,Gabriel Costa,Teclado Mecânico,Periféricos,Norte,9,250
+42,2024-01-18,Carlos Eduardo,Notebook Dell, eletrônicos ,Nordeste,10,4500
+43,2024-01-18,  Ricardo Rocha ,Teclado Mecânico, periféricos , sudeste ,4,250
+44,2024.03.10, Ana Paula Santos,Mouse Sem Fio,Periféricos,SUL,4,120
+45,NULL,  Pedro Alves  ,Fone de Ouvido, acessórios , sudeste ,12,180
+46,invalid_date,ROBERTO OLIVEIRA,Teclado Mecânico,Periféricos,Sul,8,250
+47,2024-13-01,VANESSA ALVES,Mouse Sem Fio,Periféricos,Centro-Oeste,,-120
+48,2024-06-11,Gabriel Costa,Cadeira Ergonômica,Móveis,Norte,7,950
+49,2024-04-05,Carlos Eduardo,Mouse Sem Fio,Periféricos,Sul,5 un,
+50,NULL,  ,Fone de Ouvido,Acessórios, sudeste ,9,"R$ 180,00"
+51,2024-01-15,,"MONITOR 27""",Eletrônicos,SUL,9,1200
+52,2024-05-20,Luiz Silva & Cia,Mouse Sem Fio,Periféricos, sudeste ,2,120
+53,2024-05-20,  beatriz mendes,Impressora HP,Eletrônicos,SUL,5,850
+54,2024-02-30,Luiz Silva & Cia,Fone de Ouvido,Acessórios,SUL,5,180
+55,2024-05-20, João Silva ,Cadeira Ergonômica,Móveis,SUL,8,950
+56,2024/02/01,Maria Souza ,   HD Externo 1TB  ,Acessórios,Nordeste,11,380
+57,2024-04-12,Gabriel Costa, Smartphone Samsung ,Eletrônicos,Centro-Oeste,4,"R$ 2.800,00"
+58,NULL,MARIA SOUZA,"MONITOR 27""",Eletrônicos,Sul,11,1200
+59,2024-01-15,luciana gomes,   HD Externo 1TB  ,Acessórios,Nordeste,2,380
+60,2024-01-18,fernanda lima,Teclado Mecânico,Periféricos,NORDESTE,2,250
+61,NULL,VANESSA ALVES,Impressora HP,Eletrônicos, sudeste ,12,850
+62,2024-07-04,  Ricardo Rocha ,Impressora HP,Eletrônicos,Nordeste,4,850
+63,2024-04-05,ROBERTO OLIVEIRA,Impressora HP,Eletrônicos,Centro-Oeste,12,850
+64,2024.03.10,ROBERTO OLIVEIRA,Mouse Sem Fio,Periféricos,Sul,7 un,120
+65,NULL,Luiz Silva & Cia, Smartphone Samsung ,Eletrônicos, sudeste ,4,2800
+66,invalid_date,luciana gomes,Mesa Gamer,Móveis,Sudeste,6,1100
+67,2024-07-04,luciana gomes,Fone de Ouvido,Acessórios,Centro-Oeste,7,180
+68,2024-02-30,luciana gomes,Mouse Sem Fio,Periféricos,SUL,3,120
+69,2024/02/01,Carlos Eduardo,Notebook Dell,Eletrônicos,Sudeste,3,4500
+70,31/02/2024,  Pedro Alves  ,Notebook Dell,Eletrônicos, sudeste ,6,4500
+71,2024-04-05,luciana gomes,Cadeira Ergonômica,Móveis,SUL,8,
+72,2024-13-01,Carlos Eduardo,Notebook Dell,Eletrônicos, sudeste ,11,
+73,2024.03.10, João Silva ,"MONITOR 27""", eletrônicos ,Sudeste,8,1200
+74,2024-06-11,,"MONITOR 27""",Eletrônicos,Norte,10 un,1200
+75,2024-01-15, Ana Paula Santos,Teclado Mecânico,Periféricos,Sul,10,250
+76,2024/02/01,luciana gomes,Fone de Ouvido,Acessórios,Centro-Oeste,11,180
+77,2024-06-11,  beatriz mendes,Mesa Gamer,Móveis,Sudeste,11,1100
+78,2024-07-04,Maria Souza ,Mouse Sem Fio, periféricos ,SUL,-3,120
+79,2024-07-04,VANESSA ALVES,Teclado Mecânico,Periféricos,Norte,12,250
+80,2024-04-05,Gabriel Costa,"MONITOR 27""",Eletrônicos,Sul,4,1200
+81,2024-01-15,,Mesa Gamer,Móveis, sudeste ,6,-1100
+82,2024-04-05,Luiz Silva & Cia,Mouse Sem Fio,Periféricos, sudeste ,12,120
+83,2024/02/01,Carlos Eduardo,Notebook Dell,Eletrônicos,Centro-Oeste,7,4500
+84,NULL,fernanda lima,   HD Externo 1TB  ,Acessórios,NORDESTE,2,380
+85,2024-07-04,luciana gomes,"MONITOR 27""",Eletrônicos, sudeste ,6,1200
+86,2024-04-05,Carlos Eduardo,Mouse Sem Fio,Periféricos,NORDESTE,4,"R$ 120,00"
+87,31/02/2024,Luiz Silva & Cia,Mouse Sem Fio, periféricos ,Nordeste,8,120
+88,31/02/2024,,Impressora HP,Eletrônicos,Sul,6,-850
+89,2024-01-18, João Silva ,Impressora HP, eletrônicos ,Sudeste,12,850
+90,2024-07-04,joao silva, Smartphone Samsung ,Eletrônicos,Norte,6,-2800
+91,15/02/2024,MARIA SOUZA,Cadeira Ergonômica,Móveis,NORDESTE,7,950
+92,2024/02/01,,Notebook Dell, eletrônicos ,Norte,2,4500
+93,invalid_date,  Ricardo Rocha ,Mesa Gamer,Móveis,Centro-Oeste,8,1100
+94,15/02/2024,,Fone de Ouvido,Acessórios,Sudeste,4,180
+95,2024/02/01,ROBERTO OLIVEIRA, Smartphone Samsung , eletrônicos ,Nordeste,7 un,2800
+96,2024-04-12,  ,   HD Externo 1TB  ,Acessórios,Centro-Oeste,12,380
+97,NULL,carlos eduardo,"MONITOR 27""",Eletrônicos,Centro-Oeste,-2,1200
+98,2024-04-12,ROBERTO OLIVEIRA,Teclado Mecânico, periféricos ,Nordeste,10,250
+99,invalid_date,VANESSA ALVES, Smartphone Samsung ,Eletrônicos,Norte,9,2800
+100,2024-05-20,VANESSA ALVES, Smartphone Samsung ,Eletrônicos,SUL,1,"R$ 2.800,00"
+101,2024-01-18,,Mesa Gamer,Móveis,Norte,3,1100
+102,2024-07-04,VANESSA ALVES,Cadeira Ergonômica, móveis ,SUL,8,950
+103,2024-05-20,Gabriel Costa,Mouse Sem Fio,Periféricos,Nordeste,8,120
+104,2024-05-20,luciana gomes,Impressora HP, eletrônicos ,Sul,2,850
+105,NULL,luciana gomes,Impressora HP,Eletrônicos,Sudeste,4,850
+106,31/02/2024,  ,   HD Externo 1TB  ,Acessórios,Sudeste,3,380
+107,2024-02-30,VANESSA ALVES,   HD Externo 1TB  , acessórios ,Centro-Oeste,1,380
+108,NULL,carlos eduardo,"MONITOR 27""",Eletrônicos,Sul,11,1200
+109,NULL,joao silva,Cadeira Ergonômica,Móveis,Norte,8,950
+110,2024/02/01,Carlos Eduardo,Teclado Mecânico,Periféricos,Nordeste,7,250
