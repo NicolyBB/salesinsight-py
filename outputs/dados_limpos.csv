@@ -1,0 +1,50 @@
+﻿id_venda,data_venda,cliente,produto,categoria,regiao,quantidade,preco_unitario,cliente_nome,receita_total,mes,ano,trimestre,mes_nome,faixa_receita_item,receita_em_milhares,perfil_volume
+4,2024-04-05,Cliente_007,Teclado Mecânico,Periféricos,Sudeste,6,250.0,João Silva,1500.0,4,2024,Q2,Abril,Medio Valor,1.5,Alto Volume
+5,2024-04-05,Cliente_008,Smartphone Samsung,Eletrônicos,Sudeste,12,2800.0,Luciana Gomes,33600.0,4,2024,Q2,Abril,Alto Valor,33.6,Alto Volume
+7,2024-02-15,Cliente_004,Cadeira Ergonômica,Móveis,Centro-Oeste,8,950.0,Fernanda Lima,7600.0,2,2024,Q1,Fevereiro,Alto Valor,7.6,Alto Volume
+8,2024-04-05,Cliente_010,Teclado Mecânico,Periféricos,Centro-Oeste,11,250.0,Marcos Pereira,2750.0,4,2024,Q2,Abril,Medio Valor,2.75,Alto Volume
+12,2024-04-05,Cliente_015,Teclado Mecânico,Periféricos,Centro-Oeste,7,250.0,Vanessa Alves,1750.0,4,2024,Q2,Abril,Medio Valor,1.75,Alto Volume
+14,2024-02-01,Cliente_006,Teclado Mecânico,Periféricos,Sul,10,250.0,Joao Silva,2500.0,2,2024,Q1,Fevereiro,Medio Valor,2.5,Alto Volume
+15,2024-02-15,Cliente_011,Cadeira Ergonômica,Móveis,Sudeste,9,950.0,Maria Souza,8550.0,2,2024,Q1,Fevereiro,Alto Valor,8.55,Alto Volume
+17,2024-04-12,Cliente_014,Impressora HP,Eletrônicos,Sul,9,850.0,Roberto Oliveira,7650.0,4,2024,Q2,Abril,Alto Valor,7.65,Alto Volume
+18,2024-05-20,Cliente_006,Mouse Sem Fio,Periféricos,Sudeste,2,120.0,Joao Silva,240.0,5,2024,Q2,Maio,Baixo Valor,0.24,Baixo Volume
+19,2024-02-01,Cliente_002,"MONITOR 27""",Eletrônicos,Sul,2,1200.0,Beatriz Mendes,2400.0,2,2024,Q1,Fevereiro,Medio Valor,2.4,Baixo Volume
+21,2024-04-12,Cliente_009,Impressora HP,Eletrônicos,Centro-Oeste,11,850.0,Luiz Silva Cia,9350.0,4,2024,Q2,Abril,Alto Valor,9.35,Alto Volume
+23,2024-02-01,Cliente_003,"MONITOR 27""",Eletrônicos,Sudeste,1,1200.0,Carlos Eduardo,1200.0,2,2024,Q1,Fevereiro,Medio Valor,1.2,Baixo Volume
+24,2024-04-05,Cliente_011,Mouse Sem Fio,Periféricos,Centro-Oeste,4,120.0,Maria Souza,480.0,4,2024,Q2,Abril,Baixo Valor,0.48,Baixo Volume
+28,2024-01-18,Cliente_003,HD Externo 1TB,Acessórios,Sul,9,380.0,Carlos Eduardo,3420.0,1,2024,Q1,Janeiro,Medio Valor,3.42,Alto Volume
+29,2024-07-04,Cliente_003,"MONITOR 27""",Eletrônicos,Nordeste,7,1200.0,Carlos Eduardo,8400.0,7,2024,Q3,Julho,Alto Valor,8.4,Alto Volume
+30,2024-04-05,Cliente_012,Fone de Ouvido,Acessórios,Sul,8,180.0,Pedro Alves,1440.0,4,2024,Q2,Abril,Medio Valor,1.44,Alto Volume
+38,2024-02-15,Cliente_011,Notebook Dell,Eletrônicos,Norte,3,4500.0,Maria Souza,13500.0,2,2024,Q1,Fevereiro,Alto Valor,13.5,Baixo Volume
+42,2024-01-18,Cliente_003,Notebook Dell,Eletrônicos,Nordeste,10,4500.0,Carlos Eduardo,45000.0,1,2024,Q1,Janeiro,Alto Valor,45.0,Alto Volume
+43,2024-01-18,Cliente_013,Teclado Mecânico,Periféricos,Sudeste,4,250.0,Ricardo Rocha,1000.0,1,2024,Q1,Janeiro,Medio Valor,1.0,Baixo Volume
+48,2024-06-11,Cliente_005,Cadeira Ergonômica,Móveis,Norte,7,950.0,Gabriel Costa,6650.0,6,2024,Q2,Junho,Alto Valor,6.65,Alto Volume
+52,2024-05-20,Cliente_009,Mouse Sem Fio,Periféricos,Sudeste,2,120.0,Luiz Silva Cia,240.0,5,2024,Q2,Maio,Baixo Valor,0.24,Baixo Volume
+53,2024-05-20,Cliente_002,Impressora HP,Eletrônicos,Sul,5,850.0,Beatriz Mendes,4250.0,5,2024,Q2,Maio,Medio Valor,4.25,Baixo Volume
+55,2024-05-20,Cliente_007,Cadeira Ergonômica,Móveis,Sul,8,950.0,João Silva,7600.0,5,2024,Q2,Maio,Alto Valor,7.6,Alto Volume
+56,2024-02-01,Cliente_011,HD Externo 1TB,Acessórios,Nordeste,11,380.0,Maria Souza,4180.0,2,2024,Q1,Fevereiro,Medio Valor,4.18,Alto Volume
+57,2024-04-12,Cliente_005,Smartphone Samsung,Eletrônicos,Centro-Oeste,4,2800.0,Gabriel Costa,11200.0,4,2024,Q2,Abril,Alto Valor,11.2,Baixo Volume
+59,2024-01-15,Cliente_008,HD Externo 1TB,Acessórios,Nordeste,2,380.0,Luciana Gomes,760.0,1,2024,Q1,Janeiro,Medio Valor,0.76,Baixo Volume
+60,2024-01-18,Cliente_004,Teclado Mecânico,Periféricos,Nordeste,2,250.0,Fernanda Lima,500.0,1,2024,Q1,Janeiro,Medio Valor,0.5,Baixo Volume
+62,2024-07-04,Cliente_013,Impressora HP,Eletrônicos,Nordeste,4,850.0,Ricardo Rocha,3400.0,7,2024,Q3,Julho,Medio Valor,3.4,Baixo Volume
+63,2024-04-05,Cliente_014,Impressora HP,Eletrônicos,Centro-Oeste,12,850.0,Roberto Oliveira,10200.0,4,2024,Q2,Abril,Alto Valor,10.2,Alto Volume
+67,2024-07-04,Cliente_008,Fone de Ouvido,Acessórios,Centro-Oeste,7,180.0,Luciana Gomes,1260.0,7,2024,Q3,Julho,Medio Valor,1.26,Alto Volume
+69,2024-02-01,Cliente_003,Notebook Dell,Eletrônicos,Sudeste,3,4500.0,Carlos Eduardo,13500.0,2,2024,Q1,Fevereiro,Alto Valor,13.5,Baixo Volume
+75,2024-01-15,Cliente_001,Teclado Mecânico,Periféricos,Sul,10,250.0,Ana Paula Santos,2500.0,1,2024,Q1,Janeiro,Medio Valor,2.5,Alto Volume
+76,2024-02-01,Cliente_008,Fone de Ouvido,Acessórios,Centro-Oeste,11,180.0,Luciana Gomes,1980.0,2,2024,Q1,Fevereiro,Medio Valor,1.98,Alto Volume
+77,2024-06-11,Cliente_002,Mesa Gamer,Móveis,Sudeste,11,1100.0,Beatriz Mendes,12100.0,6,2024,Q2,Junho,Alto Valor,12.1,Alto Volume
+79,2024-07-04,Cliente_015,Teclado Mecânico,Periféricos,Norte,12,250.0,Vanessa Alves,3000.0,7,2024,Q3,Julho,Medio Valor,3.0,Alto Volume
+80,2024-04-05,Cliente_005,"MONITOR 27""",Eletrônicos,Sul,4,1200.0,Gabriel Costa,4800.0,4,2024,Q2,Abril,Medio Valor,4.8,Baixo Volume
+82,2024-04-05,Cliente_009,Mouse Sem Fio,Periféricos,Sudeste,12,120.0,Luiz Silva Cia,1440.0,4,2024,Q2,Abril,Medio Valor,1.44,Alto Volume
+83,2024-02-01,Cliente_003,Notebook Dell,Eletrônicos,Centro-Oeste,7,4500.0,Carlos Eduardo,31500.0,2,2024,Q1,Fevereiro,Alto Valor,31.5,Alto Volume
+85,2024-07-04,Cliente_008,"MONITOR 27""",Eletrônicos,Sudeste,6,1200.0,Luciana Gomes,7200.0,7,2024,Q3,Julho,Alto Valor,7.2,Alto Volume
+86,2024-04-05,Cliente_003,Mouse Sem Fio,Periféricos,Nordeste,4,120.0,Carlos Eduardo,480.0,4,2024,Q2,Abril,Baixo Valor,0.48,Baixo Volume
+89,2024-01-18,Cliente_007,Impressora HP,Eletrônicos,Sudeste,12,850.0,João Silva,10200.0,1,2024,Q1,Janeiro,Alto Valor,10.2,Alto Volume
+91,2024-02-15,Cliente_011,Cadeira Ergonômica,Móveis,Nordeste,7,950.0,Maria Souza,6650.0,2,2024,Q1,Fevereiro,Alto Valor,6.65,Alto Volume
+95,2024-02-01,Cliente_014,Smartphone Samsung,Eletrônicos,Nordeste,7,2800.0,Roberto Oliveira,19600.0,2,2024,Q1,Fevereiro,Alto Valor,19.6,Alto Volume
+98,2024-04-12,Cliente_014,Teclado Mecânico,Periféricos,Nordeste,10,250.0,Roberto Oliveira,2500.0,4,2024,Q2,Abril,Medio Valor,2.5,Alto Volume
+100,2024-05-20,Cliente_015,Smartphone Samsung,Eletrônicos,Sul,1,2800.0,Vanessa Alves,2800.0,5,2024,Q2,Maio,Medio Valor,2.8,Baixo Volume
+102,2024-07-04,Cliente_015,Cadeira Ergonômica,Móveis,Sul,8,950.0,Vanessa Alves,7600.0,7,2024,Q3,Julho,Alto Valor,7.6,Alto Volume
+103,2024-05-20,Cliente_005,Mouse Sem Fio,Periféricos,Nordeste,8,120.0,Gabriel Costa,960.0,5,2024,Q2,Maio,Medio Valor,0.96,Alto Volume
+104,2024-05-20,Cliente_008,Impressora HP,Eletrônicos,Sul,2,850.0,Luciana Gomes,1700.0,5,2024,Q2,Maio,Medio Valor,1.7,Baixo Volume
+110,2024-02-01,Cliente_003,Teclado Mecânico,Periféricos,Nordeste,7,250.0,Carlos Eduardo,1750.0,2,2024,Q1,Fevereiro,Medio Valor,1.75,Alto Volume
